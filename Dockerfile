@@ -1,5 +1,5 @@
 # aabor/rstudio-text
-FROM aabor/rstudio:latest
+FROM aabor/rstudio:3.1.1
 
 # machine learning
 RUN install2.r --error \ 
